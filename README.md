@@ -1,2 +1,2 @@
 # ESudacity
-Project of portfolio site.
+Project of my portfolio site.
